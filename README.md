@@ -2,7 +2,7 @@
 
 > Your smart canteen buddy – order, connect, and enjoy hassle-free dining on campus! 🎓✨  
 
-![Canteen Banner](https://drive.google.com/file/d/1tUZ2r5jmxI7jSkAq_So-ycuas2QfmX2S/view?usp=drive_link)  
+![Canteen Logo]([https://drive.google.com/file/d/1tUZ2r5jmxI7jSkAq_So-ycuas2QfmX2S/view?usp=drive_link](https://drive.google.com/file/d/1tUZ2r5jmxI7jSkAq_So-ycuas2QfmX2S/view?usp=sharing))  
 
 ---
 
@@ -51,4 +51,5 @@ npm install
 
 # Run the app
 npm start
+
 
