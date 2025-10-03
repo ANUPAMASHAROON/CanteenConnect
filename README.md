@@ -2,7 +2,7 @@
 
 > Your smart canteen buddy – order, connect, and enjoy hassle-free dining on campus! 🎓✨  
 
-![Canteen Banner](https://img.freepik.com/free-vector/food-app-interface-template_23-2148620612.jpg)  
+![Canteen Banner](https://drive.google.com/file/d/1tUZ2r5jmxI7jSkAq_So-ycuas2QfmX2S/view?usp=drive_link)  
 
 ---
 
@@ -16,21 +16,22 @@ From browsing menus to placing orders and tracking them in real-time, everything
 - 🔐 **Login / Signup** – Secure access for students and faculty.  
 - 📋 **Menu Display** – View available canteen items in real-time.  
 - 🛒 **Order Food** – Quick and easy ordering from your phone.  
-- 📍 **Bus Stop & Location Tracking** *(future expansion)*.  
+- 📍 **Location Tracking** - Easy to know where the canteen is.  
 - 🧑‍💼 **Admin Portal** – Manage menu items, orders, and canteen status.  
-- 🌗 **Dark Mode Support** – Choose your vibe!  
+- 🌗 **Dark Mode Support** – Choose your vibe
+- 🛒 **Filter search** – Filter your choices
+- 🧑‍💼 **AI Bot** – Talk to AI and Query solver
+- **Review and Rate** – Share your reviews and rate it   
 
 ---
 
-## 🖼️ App Preview
-📱 *Coming Soon: Screenshots & Demo GIFs*  
 
 ---
 
 ## ⚙️ Tech Stack
 - **Frontend:** React Native ⚛️  
 - **Backend:** Node.js + Express.js 🟢  
-- **Database:** MongoDB 🍃  
+- **Database:** ServiceNow 🍃  
 - **Authentication:** JWT 🔑  
 - **Hosting:** GitHub / Vercel / Render ☁️  
 
@@ -50,3 +51,4 @@ npm install
 
 # Run the app
 npm start
+
